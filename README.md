@@ -3,16 +3,16 @@ TodoApp is a simple Java Swing application designed to manage and organize daily
 This application allows users to add, edit, and delete tasks with associated dates and times. 
 It provides a graphical user interface (GUI) for users to interact with their todos effortlessly.
 
-## Features:
-# Add Todo: 
+# Features:
+## Add Todo: 
 Users can input a task, select a date, and time to add it to the todo list.
-# Edit Todo: 
+## Edit Todo: 
 Users can select a task from the list and edit its text, date, and time.
-# Delete Todo: 
+## Delete Todo: 
 Users can remove a selected task from the todo list.
-# View Todos: 
+## View Todos: 
 The application displays all the todos in a scrollable list with task details, including the task text and its associated date and time.
-# Database Integration: 
+## Database Integration: 
 The application integrates with a MySQL database to persist todo data. It uses JDBC (Java Database Connectivity) to perform database operations like adding, editing, and deleting todos.
 
 # Technologies Used:
