@@ -24,7 +24,7 @@ JDBC (Java Database Connectivity): A Java API used to connect and interact with 
 To run the TodoApp locally on your machine:
 
 1. Clone the repository:
-git clone https://github.com/your-username/TodoApp.git
+git clone - link of the project
 
 2. Navigate to the project directory:
 cd TodoApp
